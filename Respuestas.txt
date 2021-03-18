@@ -1,2 +1,6 @@
 1. Un sistema es un conjunto de elementos que tienen como fin desarrollar una solución a una 
 necesidad o problematica.
+2. Ejemplos de sistemas abiertos: el telefono, el cuerpo, el ambiente o las plantas
+Ejemplos de sistemas cerrados: una taza con una tapadera encima, termometro, un cuarto cerrado.
+
+
