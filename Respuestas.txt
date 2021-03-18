@@ -8,8 +8,10 @@ Ejemplos de sistemas cerrados: una taza con una tapadera encima, termometro, un 
 3. Si no hacemos un enfoque a sistemas basicamente estariamos viviendo en un mundo de tipo cerrado
 sin elementos que lo compongan, sin elementos entender que un sistema es un objeto que tal ves usamos todos
 los dias, como por ejemplo un telefono, no podemos vivir hoy en dia sin eso, y sin estar conscientes que 
-realmente es un sistema o que nos resuelve la vida estariamos viviendo ignorantemente
+realmente es un sistema o que nos resuelve la vida estariamos viviendo ignorantemente y aisladamente
 
 4. La administración
+
+5. Cuando como empresa no alcanzamos el objetivo esperado
 
 
