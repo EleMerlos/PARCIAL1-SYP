@@ -30,5 +30,6 @@ produccion mientras el descubre su funcionamiento.
 que juntos lo convierten en un sistema, para asi saber que esta bien, que esta mal, o que se puede mejorar u 
 optimizar, y organizar las ideas.
 
-
+10. Es necesario hacer un analisis, hacer un proyecto de estudio solido y conocer la posicion competitiva de 
+la empresa
 
